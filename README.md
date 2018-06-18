@@ -10,9 +10,10 @@
     * [「MonacaTapGameApp」をMonacaにインストール](https://monaca.mobi/directimport?pid=5b1105e1e788850674dba6d4)
 
 * 第八章　会員管理機能
-  * 参考：パスワードの変更について
-     * [会員管理 \(Monaca\) : メールアドレス認証 \| ニフクラ mobile backend](http://mb.cloud.nifty.com/doc/current/user/authorize_email_monaca.html#/Monaca/)
-     * [method_requestPasswordReset](http://mb.cloud.nifty.com/assets/sdk_doc/javascript/jsdoc/classes/NCMB.User.html#method_requestPasswordReset)
+  * ユーザー名・パスワード認証
+    * 参考：パスワードの変更について
+      * [会員管理 \(Monaca\) : メールアドレス認証 \| ニフクラ mobile backend](http://mb.cloud.nifty.com/doc/current/user/authorize_email_monaca.html#/Monaca/)
+      * [method_requestPasswordReset](http://mb.cloud.nifty.com/assets/sdk_doc/javascript/jsdoc/classes/NCMB.User.html#method_requestPasswordReset)
  
 ```js
 // メールアドレス認証ユーザの登録メールアドレス宛にパスワード再設定のメールを送信
@@ -26,3 +27,7 @@ ncmb.User.requestPasswordReset()
              console.log("再設定メール送信失敗:" + JSON.stringify(error));
          });
 ```
+
+* 第八章　会員管理機能
+  * サンプルプロジェクト
+     * [ユーザー名・パスワード認証サンプル](https://monaca.mobi/directimport?pid=5b2784d7e78885b569dba6d8)
