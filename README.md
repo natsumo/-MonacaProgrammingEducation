@@ -31,3 +31,7 @@ ncmb.User.requestPasswordReset()
 * 第八章　会員管理機能
   * サンプルプロジェクト
      * [「ユーザー名・パスワード認証サンプル」」をMonacaにインストール](https://monaca.mobi/directimport?pid=5b2784d7e78885b569dba6d8)
+
+* 応用編まとめ
+  * サンプルアプリの準備
+    * [「MonacaChatApp」をMonacaにインストール](https://monaca.mobi/directimport?pid=5b34c637e78885b449dba6dd)
