@@ -34,4 +34,4 @@ ncmb.User.requestPasswordReset()
 
 * 応用編まとめ
   * サンプルアプリの準備
-    * [「MonacaChatApp」をMonacaにインストール](https://monaca.mobi/directimport?pid=5b34c637e78885b449dba6dd)
+    * [「MonacaChatApp」をMonacaにインストール](https://monaca.mobi/ja/directimport?pid=5b359d02e78885282fdba6d0)
