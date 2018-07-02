@@ -7,7 +7,7 @@
       * [「4_1_データのインポート_sampleData.csv」をダウンロード](https://natsumo.github.io/MonacaProgrammingEducation/4_1_データのインポート_sampleData.csv)
 * 基礎編まとめ　
   * サンプルアプリの準備
-    * [「MonacaTapGameApp」をMonacaにインストール](https://monaca.mobi/directimport?pid=5b1105e1e788850674dba6d4)
+    * [「MonacaTapGameApp」をMonacaにインストール](https://monaca.mobi/directimport?pid=5b3a0c3ce788852f56dba6d1)
 
 * 第八章　会員管理機能
   * ユーザー名・パスワード認証
