@@ -9,7 +9,13 @@
   * サンプルアプリの準備
     * [「MonacaTapGameApp」をMonacaにインストール](https://monaca.mobi/directimport?pid=5b3a0c3ce788852f56dba6d1)
 ## サンプル３
-```js
+* 第八章　会員管理機能
+  * ユーザー名・パスワード認証
+    * 参考：パスワードの変更について
+      * [会員管理 \(Monaca\) : メールアドレス認証 \| ニフクラ mobile backend](http://mb.cloud.nifty.com/doc/current/user/authorize_email_monaca.html#/Monaca/)
+      * [method_requestPasswordReset](http://mb.cloud.nifty.com/assets/sdk_doc/javascript/jsdoc/classes/NCMB.User.html#method_requestPasswordReset)
+
+ ```js
 // メールアドレス認証ユーザの登録メールアドレス宛にパスワード再設定のメールを送信
 ncmb.User.requestPasswordReset()
          .then(function(){
@@ -23,16 +29,9 @@ ncmb.User.requestPasswordReset()
 ```
 ## サンプル４
 * 第八章　会員管理機能
-  * ユーザー名・パスワード認証
-    * 参考：パスワードの変更について
-      * [会員管理 \(Monaca\) : メールアドレス認証 \| ニフクラ mobile backend](http://mb.cloud.nifty.com/doc/current/user/authorize_email_monaca.html#/Monaca/)
-      * [method_requestPasswordReset](http://mb.cloud.nifty.com/assets/sdk_doc/javascript/jsdoc/classes/NCMB.User.html#method_requestPasswordReset)
- 
-## サンプル５
-* 第八章　会員管理機能
   * サンプルプロジェクト
      * [「ユーザー名・パスワード認証サンプル」」をMonacaにインストール](https://monaca.mobi/directimport?pid=5b2784d7e78885b569dba6d8)
-## サンプル６
+## サンプル５
 * 応用編まとめ
   * サンプルアプリの準備
     * [「MonacaChatApp」をMonacaにインストール](https://monaca.mobi/ja/directimport?pid=5b359d02e78885282fdba6d0)
